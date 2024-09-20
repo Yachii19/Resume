@@ -1,0 +1,21 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #009688;
+    color: white;
+    padding: 10px;
+    align-items: center;
+}
+
+.name {
+    margin-top: 15px;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.occupation {
+    font-size: 25px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
